@@ -7,7 +7,7 @@
 > `1 πs ≜ π / ω` → **π radians of phase**  
 > X-gate = `rx_pi(1, 0)` | Full cycle = `delay_pi(2, 0)` | **No 2π clutter**
 
-**By [YOUR NAME] – Outsider Hacker** | October 2025  
+**By [J.J.W. 'Robin' Albers] –** | October 2025  
 
 ---
 
